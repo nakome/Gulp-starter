@@ -1,0 +1,25 @@
+{
+  "name": "theme_base",
+  "description": "Minimal html theme starter with Gulp",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.10.0",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-file-include": "*",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-jsbeautifier": "^1.0.1",
+    "gulp-jshint": "^2.0.0",
+    "gulp-less": "^3.0.5",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "*",
+    "gulp-uglifycss": "^1.0.5",
+    "jshint": "^2.8.0"
+  },
+  "keywords": [
+    "themes,starter"
+  ],
+  "author": "Moncho Varela",
+  "license": "MIT"
+}
