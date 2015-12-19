@@ -1,29 +1,29 @@
 {
-    "name": "theme_base",
-    "description": "Minimal html theme starter with Gulp",
-    "version": "1.0.0",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/nakome/Gulp-starter.git"
-    },
-    "main": "gulpfile.js",
-    "dependencies": {
-        "browser-sync": "*",
-        "gulp": "*",
-        "gulp-concat": "*",
-        "gulp-file-include": "*",
-        "gulp-imagemin": "*",
-        "gulp-jsbeautifier": "*",
-        "gulp-jshint": "*",
-        "gulp-less": "*",
-        "gulp-rename": "*",
-        "gulp-uglify": "*",
-        "gulp-uglifycss": "*",
-        "jshint": "*"
-    },
-    "keywords": [
-        "themes,starter"
-    ],
-    "author": "Moncho Varela",
-    "license": "MIT"
+  "name": "theme_base",
+  "description": "Minimal html theme starter with Gulp",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nakome/Gulp-starter.git"
+  },
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "*",
+    "gulp": "^3.9.0",
+    "gulp-concat": "*",
+    "gulp-file-include": "^0.13.7",
+    "gulp-imagemin": "*",
+    "gulp-jsbeautifier": "*",
+    "gulp-jshint": "*",
+    "gulp-less": "*",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.1",
+    "gulp-uglifycss": "^1.0.5",
+    "jshint": "*"
+  },
+  "keywords": [
+    "themes,starter"
+  ],
+  "author": "Moncho Varela",
+  "license": "MIT"
 }
